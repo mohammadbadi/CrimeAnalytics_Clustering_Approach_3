@@ -1,6 +1,6 @@
 #CrimeAnalytics_Clustering
 👋 Hi, I’m @mohammadbadi  
-👀 I’m interested in Data Analytics, Financial Management, and uncovering insights that drive business decisions.  
+👀 I’m interested in Data Analytics, Business Analytics or Business Intelligence. I love uncovering insightsfrom data that drive business decisions.  
 🌱 I’m currently learning advanced techniques in data analytics and business intelligence as part of my MBA in Financial and Management Analytics.  
 💞️ I’m looking to collaborate on innovative projects and opportunities in Data Analytics, especially within the Toronto market.  
 📫 How to reach me: Feel free to connect with me on LinkedIn or drop me an email.  
